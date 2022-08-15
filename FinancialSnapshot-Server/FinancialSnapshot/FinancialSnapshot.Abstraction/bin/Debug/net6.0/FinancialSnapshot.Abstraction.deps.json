@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FinancialSnapshot.Abstraction/1.0.0": {
+        "dependencies": {
+          "FinancialSnapshot.Models": "1.0.0"
+        },
+        "runtime": {
+          "FinancialSnapshot.Abstraction.dll": {}
+        }
+      },
+      "FinancialSnapshot.Models/1.0.0": {
+        "runtime": {
+          "FinancialSnapshot.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinancialSnapshot.Abstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FinancialSnapshot.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

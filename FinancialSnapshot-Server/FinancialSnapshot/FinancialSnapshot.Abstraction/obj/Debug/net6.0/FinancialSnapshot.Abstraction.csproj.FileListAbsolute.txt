@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Abstraction\obj\Debug\net6.0\FinancialSnapshot.Abstraction.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Abstraction\obj\Debug\net6.0\FinancialSnapshot.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Abstraction\obj\Debug\net6.0\FinancialSnapshot.Abstraction.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Abstraction\obj\Debug\net6.0\FinancialSnapshot.Abstraction.AssemblyInfo.cs
+C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Abstraction\obj\Debug\net6.0\FinancialSnapshot.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Abstraction\bin\Debug\net6.0\FinancialSnapshot.Abstraction.deps.json
+C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Abstraction\bin\Debug\net6.0\FinancialSnapshot.Abstraction.dll
+C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Abstraction\bin\Debug\net6.0\FinancialSnapshot.Abstraction.pdb
+C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Abstraction\bin\Debug\net6.0\FinancialSnapshot.Models.dll
+C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Abstraction\bin\Debug\net6.0\FinancialSnapshot.Models.pdb
+C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Abstraction\obj\Debug\net6.0\FinancialSnapshot.Abstraction.csproj.CopyComplete
+C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Abstraction\obj\Debug\net6.0\FinancialSnapshot.Abstraction.dll
+C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Abstraction\obj\Debug\net6.0\refint\FinancialSnapshot.Abstraction.dll
+C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Abstraction\obj\Debug\net6.0\FinancialSnapshot.Abstraction.pdb
+C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Abstraction\obj\Debug\net6.0\ref\FinancialSnapshot.Abstraction.dll

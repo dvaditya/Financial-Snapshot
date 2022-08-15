@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Shared\bin\Debug\net6.0\FinancialSnapshot.Models.deps.json
+C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Shared\bin\Debug\net6.0\FinancialSnapshot.Models.dll
+C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Shared\bin\Debug\net6.0\FinancialSnapshot.Models.pdb
+C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Shared\obj\Debug\net6.0\FinancialSnapshot.Models.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Shared\obj\Debug\net6.0\FinancialSnapshot.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Shared\obj\Debug\net6.0\FinancialSnapshot.Models.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Shared\obj\Debug\net6.0\FinancialSnapshot.Models.AssemblyInfo.cs
+C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Shared\obj\Debug\net6.0\FinancialSnapshot.Models.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Shared\obj\Debug\net6.0\FinancialSnapshot.Models.dll
+C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Shared\obj\Debug\net6.0\refint\FinancialSnapshot.Models.dll
+C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Shared\obj\Debug\net6.0\FinancialSnapshot.Models.pdb
+C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Shared\obj\Debug\net6.0\ref\FinancialSnapshot.Models.dll

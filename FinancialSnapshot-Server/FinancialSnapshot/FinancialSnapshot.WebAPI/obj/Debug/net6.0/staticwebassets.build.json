@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ePxAI6rRACQVapal5UXi0drfjDki/qYS4/QAwj0I0hA=",
+  "Source": "FinancialSnapshot.WebAPI",
+  "BasePath": "_content/FinancialSnapshot.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
