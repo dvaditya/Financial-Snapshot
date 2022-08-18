@@ -26,13 +26,11 @@ export class AuthService {
   login(username: string, password: string) {
     return this.http.post(`${environment.apiUrl}/security/login`, {username, password})
                     .pipe(map((response: ApiResponse) => {
-
+                      if(response.IsSuccess && response.Data){
+                        setUser(JSON.stringify(response.Data));
+                        this.currentUserSubject.next(response.Data);
+                      }
                       return response;
-                      // if (user && user.token) {
-                      //   setUser(JSON.stringify(user));
-                      //   this.currentUserSubject.next(user);
-                      // }
-                      // return user
                     }));
   }
 
