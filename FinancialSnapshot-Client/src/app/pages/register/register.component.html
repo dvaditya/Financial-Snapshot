@@ -1,1 +1,57 @@
-<p>register works!</p>
+<div class="limiter">
+    <div class="container-register100" style="background-image: url('../../../assets/images/bg-01.jpg');">
+      <div class="wrap-register100">
+        <form class="register100-form validate-form">
+          <span class="register100-form-title pb-5">
+            Register
+          </span>
+  
+          <div class="ml-2 pr-2 wrap-input100 mb-4">
+            <span class="label-input100">Email</span>
+            <input class="input100" type="text" name="email" [(ngModel)]="registerForm.email">
+          </div>
+  
+          <div class="wrap-input100 mb-4">
+            <span class="label-input100">Username</span>
+            <input class="input100" type="text" name="username" [(ngModel)]="registerForm.username">
+          </div>
+
+          <div class="wrap-input100 mb-4">
+            <span class="label-input100">First Name</span>
+            <input class="input100" type="text" name="first-name" [(ngModel)]="registerForm.firstName">
+          </div>
+
+          <div class="wrap-input100 mb-4">
+            <span class="label-input100">Middle Name</span>
+            <input class="input100" type="text" name="middle-name" [(ngModel)]="registerForm.middleName">
+          </div>
+
+          <div class="wrap-input100 mb-4">
+            <span class="label-input100">Last Name</span>
+            <input class="input100" type="text" name="last-name" [(ngModel)]="registerForm.lastName">
+          </div>
+
+          <div class="wrap-input100 mb-4">
+            <span class="label-input100">Password</span>
+            <input class="input100" type="password" name="password" [(ngModel)]="registerForm.password">
+          </div>
+
+          <div class="wrap-input100 mb-4">
+            <span class="label-input100">Re-enter password</span>
+            <input class="input100" type="password" name="duplicate-password" [(ngModel)]="registerForm.duplicatePassword">
+          </div>
+          
+          <div class="container-register100-form-btn mt-5">
+            <div class="wrap-register100-form-btn">
+              <div [ngClass]="isRegisterInProgress ? 'in-progress' : '' " class="register100-form-bgbtn">
+              <fa-icon [hidden]="!isRegisterInProgress" class="fa-spin" [icon]="icons.faSpinner"></fa-icon>
+              <button class="register100-form-btn" (click)="onSubmit()" [disabled]="isRegisterInProgress">
+                Register
+              </button>
+            </div>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>

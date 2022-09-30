@@ -4,7 +4,9 @@ import { BehaviorSubject, map, Observable } from 'rxjs';
 import { User } from '../_models/user';
 import { getUser, removeUser, setUser } from '../_helpers/storage.helper';
 import { environment } from 'src/environments/environment';
-import { ApiResponse } from '../_models/apiResponse';
+import { ApiResponse } from '../_models/apiResponse.interface';
+import { Login } from '../_models/security/login.interface';
+import { Register } from '../_models/security/register.interface';
 
 @Injectable({
   providedIn: 'root'
@@ -23,8 +25,8 @@ export class AuthService {
     return this.currentUserSubject.value;
   }
 
-  login(username: string, password: string) {
-    return this.http.post(`${environment.apiUrl}/security/login`, {username, password})
+  login(loginForm: Login) {
+    return this.http.post(`${environment.apiUrl}/security/login`,{ data: loginForm })
                     .pipe(map((response: ApiResponse) => {
                       if(response.IsSuccess && response.Data){
                         setUser(JSON.stringify(response.Data));
@@ -37,5 +39,12 @@ export class AuthService {
   logout() {
     removeUser();
     this.currentUserSubject.next(null);
+  }
+
+  register(registerForm: Register) {
+    return this.http.post(`${environment.apiUrl}/security/register`, { data: registerForm })
+                    .pipe(map((response: ApiResponse) => {
+                      return response;
+                    }));
   }
 }

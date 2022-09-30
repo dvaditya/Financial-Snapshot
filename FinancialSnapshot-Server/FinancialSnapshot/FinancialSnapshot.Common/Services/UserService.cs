@@ -55,13 +55,21 @@ namespace FinancialSnapshot.Common.Services
 
         public async Task<BaseDataResponse<bool>> ProcessRegister(RegisterRequest request)
         {
-            if (request == null || request.UserInfoDto == null)
+            if (request == null)
                 return BaseDataResponse<bool>.Error(message: "Invalid request");
 
             var salt = CryptographyProcessor.CreateSalt(32);
             var hash = CryptographyProcessor.GenerateHash(request.Password, salt);
+            var userInfoDto = new UserInfoDto
+            {
+                Username = request.Username,
+                Email = request.Email,
+                FirstName = request.FirstName,
+                LastName = request.LastName,
+                MiddleName = request.MiddleName
+            };
 
-            var response = await _repo.RegisterUser(request.UserInfoDto, new UserPasswordDto { Salt = salt, Hash = hash });
+            var response = await _repo.RegisterUser(userInfoDto, new UserPasswordDto { Salt = salt, Hash = hash });
 
             if(response)
                 return BaseDataResponse<bool>.Success();

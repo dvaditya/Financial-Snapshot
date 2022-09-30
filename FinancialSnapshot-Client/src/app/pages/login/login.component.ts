@@ -1,6 +1,10 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { AuthService } from 'src/app/_services/auth.service';
+import { faFacebook, faTwitter, faGoogle } from '@fortawesome/free-brands-svg-icons';
+import { faSpinner } from '@fortawesome/free-solid-svg-icons';
+import { Login } from 'src/app/_models/security/login.interface';
+import { ApiResponse } from 'src/app/_models/apiResponse.interface';
 
 @Component({
   selector: 'app-login',
@@ -9,12 +13,16 @@ import { AuthService } from 'src/app/_services/auth.service';
 })
 export class LoginComponent implements OnInit {
 
-  form: any = {
-    username: null,
-    password: null
-  };
+  loginForm: Login = { username: "", password: "" };
 
-  isLoggedIn = false;
+  icons: any = {
+    faFacebook: faFacebook,
+    faTwitter: faTwitter,
+    faGoogle: faGoogle,
+    faSpinner: faSpinner
+  }
+
+  isLoginInProgress = false;
   isLoginFailed = false;
   saveCreds = false;
   errorMessage = '';
@@ -26,18 +34,19 @@ export class LoginComponent implements OnInit {
   }
 
   onSubmit(): void {
-    const { username, password } = this.form;
-    this.authService.login(username, password).subscribe(
-      data => {
+    this.isLoginInProgress = true;
+    this.authService.login(this.loginForm).subscribe({
+      next: data => {
         this.isLoginFailed = false;
-        this.isLoggedIn = true;
+        this.isLoginInProgress = false;
         this.router.navigate(["/home"]);
       },
-      err => {
-        this.errorMessage = err.message;
+      error: error => {
+        this.isLoginInProgress = false;
+        this.errorMessage = error.message;
         this.isLoginFailed = true;
       }
-    );
+    });
   }
 
 }

@@ -39,6 +39,7 @@ namespace FinancialSnapshot.Common.Data
         public async Task<UserDto> GetUserByUsername(string username)
         {
             return await _context.Users
+                .Include(u => u.UserPasswords)
                 .Where(x => x.Username == username &&
                             x.IsActive &&
                             !x.IsLocked)
