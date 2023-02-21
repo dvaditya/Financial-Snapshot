@@ -1,5 +1,4 @@
 using FinancialSnapshot.Abstraction.Services;
-using FinancialSnapshot.Models.Configuration;
 using FinancialSnapshot.Models.Web.General;
 using FinancialSnapshot.Models.Web.Security;
 using Microsoft.AspNetCore.Mvc;
@@ -8,14 +7,12 @@ namespace FinancialSnapshot.WebAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class SecurityController : ControllerBase
+    public class SecurityController : BaseController
     {
-        private readonly ILogger<SecurityController> _logger;
         private readonly IUserService _service;
 
-        public SecurityController(ILogger<SecurityController> logger, IUserService service)
+        public SecurityController(ILogger<SecurityController> logger, IUserService service): base(logger)
         {
-            _logger = logger;
             _service = service;
         }
 
