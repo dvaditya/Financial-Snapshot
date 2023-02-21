@@ -10,3 +10,15 @@ C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSn
 C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Database\obj\Debug\net6.0\refint\FinancialSnapshot.Database.dll
 C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Database\obj\Debug\net6.0\FinancialSnapshot.Database.pdb
 C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Database\obj\Debug\net6.0\ref\FinancialSnapshot.Database.dll
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Database\bin\Debug\net6.0\FinancialSnapshot.Database.deps.json
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Database\bin\Debug\net6.0\FinancialSnapshot.Database.dll
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Database\bin\Debug\net6.0\FinancialSnapshot.Database.pdb
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Database\obj\Debug\net6.0\FinancialSnapshot.Database.csproj.AssemblyReference.cache
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Database\obj\Debug\net6.0\FinancialSnapshot.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Database\obj\Debug\net6.0\FinancialSnapshot.Database.AssemblyInfoInputs.cache
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Database\obj\Debug\net6.0\FinancialSnapshot.Database.AssemblyInfo.cs
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Database\obj\Debug\net6.0\FinancialSnapshot.Database.csproj.CoreCompileInputs.cache
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Database\obj\Debug\net6.0\FinancialSnapshot.Database.dll
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Database\obj\Debug\net6.0\refint\FinancialSnapshot.Database.dll
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Database\obj\Debug\net6.0\FinancialSnapshot.Database.pdb
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Database\obj\Debug\net6.0\ref\FinancialSnapshot.Database.dll

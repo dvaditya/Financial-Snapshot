@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4dm5ztEr/RDthuyIS1u6aC28eC70VwxHK1USoQWiC2bqg/MtTlK9m91XBb//BNzCdU9ZvzexXkyjLfIKDqWPVA==",
+  "dgSpecHash": "2RKN0EGixDL/Nu7mpzKaG36i+orGyhRoz3Jp3gURCEm45pR/4Y7OFoRjHTXhgeaKA5kNLHO6XRBprwai2l5NVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Financial-Snapshot\\FinancialSnapshot-Server\\FinancialSnapshot\\FinancialSnapshot.Shared\\FinancialSnapshot.Models.csproj",
+  "projectFilePath": "C:\\Users\\adity\\Personal\\Projects\\Web Apps\\Financial Snapshot\\FinancialSnapshot-Server\\FinancialSnapshot\\FinancialSnapshot.Shared\\FinancialSnapshot.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

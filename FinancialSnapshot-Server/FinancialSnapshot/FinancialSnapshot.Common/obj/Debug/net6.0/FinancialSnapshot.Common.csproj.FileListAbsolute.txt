@@ -17,3 +17,22 @@ C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSn
 C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Common\obj\Debug\net6.0\refint\FinancialSnapshot.Common.dll
 C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Common\obj\Debug\net6.0\FinancialSnapshot.Common.pdb
 C:\Users\HP\source\repos\Financial-Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Common\obj\Debug\net6.0\ref\FinancialSnapshot.Common.dll
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Common\bin\Debug\net6.0\FinancialSnapshot.Common.deps.json
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Common\bin\Debug\net6.0\FinancialSnapshot.Common.dll
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Common\bin\Debug\net6.0\FinancialSnapshot.Common.pdb
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Common\bin\Debug\net6.0\FinancialSnapshot.Abstraction.dll
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Common\bin\Debug\net6.0\FinancialSnapshot.Database.dll
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Common\bin\Debug\net6.0\FinancialSnapshot.Models.dll
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Common\bin\Debug\net6.0\FinancialSnapshot.Abstraction.pdb
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Common\bin\Debug\net6.0\FinancialSnapshot.Database.pdb
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Common\bin\Debug\net6.0\FinancialSnapshot.Models.pdb
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Common\obj\Debug\net6.0\FinancialSnapshot.Common.csproj.AssemblyReference.cache
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Common\obj\Debug\net6.0\FinancialSnapshot.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Common\obj\Debug\net6.0\FinancialSnapshot.Common.AssemblyInfoInputs.cache
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Common\obj\Debug\net6.0\FinancialSnapshot.Common.AssemblyInfo.cs
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Common\obj\Debug\net6.0\FinancialSnapshot.Common.csproj.CoreCompileInputs.cache
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Common\obj\Debug\net6.0\FinancialSnapshot.Common.csproj.CopyComplete
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Common\obj\Debug\net6.0\FinancialSnapshot.Common.dll
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Common\obj\Debug\net6.0\refint\FinancialSnapshot.Common.dll
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Common\obj\Debug\net6.0\FinancialSnapshot.Common.pdb
+C:\Users\adity\Personal\Projects\Web Apps\Financial Snapshot\FinancialSnapshot-Server\FinancialSnapshot\FinancialSnapshot.Common\obj\Debug\net6.0\ref\FinancialSnapshot.Common.dll
